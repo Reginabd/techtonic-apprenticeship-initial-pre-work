@@ -1,0 +1,41 @@
+h1 {
+	column-span: all;
+	padding: 10px;
+}
+
+.columns {
+	column-count: 2;
+}
+
+img {
+	float: left;
+	margin-right: 20px;
+	width: 256px;
+	height: 333px;
+}
+
+ul {
+	list-style-type: square;
+	display: inline-block;
+}
+
+p {
+	padding: 10px;
+}
+
+body {
+	background-color:rgb(213, 220, 216);
+}
+
+.header {
+	padding: 15px 25px;
+	background: rgb(195, 207, 204);
+	width: 100%;
+	height: 10px;
+}
+
+.footer {
+	padding: 15px 25px;
+	background: rgb(195, 207, 204);
+	width: 100%;
+}
